@@ -5,7 +5,9 @@
 Esse desafio é muito empolgante principalmente se você nunca trabalhou com a linguagem Go!
 Você terá que publicar uma imagem no docker hub. Quando executarmos:
 
+```bash
 docker run <seu-user>/codeeducation
+```
 
 Temos que ter o seguinte resultado: Code.education Rocks!
 
@@ -25,7 +27,9 @@ Nesse desafio você colocará em prática o que aprendemos em relação a utiliz
 
 O retorno da aplicação node.js para o nginx deverá ser:
 
+```html
 <h1>Full Cycle Rocks!</h1>
+```
 
 - Lista de nomes cadastrada no banco de dados.
 
